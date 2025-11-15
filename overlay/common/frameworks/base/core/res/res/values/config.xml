@@ -172,4 +172,7 @@
         <item>com.google.android.as/com.google.intelligence.sense.ambientmusic.history.HistoryGarbageCollector</item>
         <item>com.google.android.as/com.google.intelligence.sense.ambientmusic.reload.ModelReloadService</item>
     </string-array>
+
+    <!-- AOD wallpaper -->
+    <bool name="config_dozeSupportsAodWallpaper">true</bool>
 </resources>
